@@ -1,4 +1,4 @@
-# Portfolioo
+# Personal Project Portfolio
 
 Personal portfolio site built with React 18, Vite, styled-components, and Framer Motion. Deployed using Netlify.
 
