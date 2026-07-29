@@ -1,8 +1,8 @@
 # Portfolioo
 
-Personal portfolio site built with React 18, Vite, styled-components, and Framer Motion. Deployed to GitHub Pages.
+Personal portfolio site built with React 18, Vite, styled-components, and Framer Motion. Deployed using Netlify.
 
-**Live site:** [abhiiiijain.github.io/Portfolioo](https://abhiiiijain.github.io/Portfolioo)
+**Live site:** https://michaelfernandes.netlify.app/
 
 ## Stack
 
