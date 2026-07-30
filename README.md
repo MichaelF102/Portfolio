@@ -37,17 +37,6 @@ npm run dev
 ```
 
 Open the URL printed in the terminal. Routes use `HashRouter`, so paths look like `/#/about`.
-
-## GitHub Pages
-
-The app is configured for project-site hosting:
-
-- `homepage` in `package.json` and `base: '/Portfolioo/'` in `vite.config.js` must match your repo name.
-- `HashRouter` avoids server-side routing issues on static hosting.
-- Deploy with `npm run deploy` (requires `gh-pages` and write access to the remote).
-
-If you fork to a different repo or user, update both `homepage` and `vite.config.js` `base`.
-
 ## Project structure
 
 ```
