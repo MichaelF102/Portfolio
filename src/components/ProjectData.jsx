@@ -80,11 +80,11 @@ export const Project = [
   },
   {
     id: 10,
-    name: "Predicting Housing Prices",
+    name: "Alpha Forage- Portfolio Optimization",
     description:
-      "A Comprehensive study of Housing Prices using Machine Learning to predict prices.",
-    tags: ["Python", "NumPy", "Pandas", "ScikitLearn", "MachineLearning"],
-    demo: "https://github.com/MichaelF102/Predicting_Housing_Prices",
-    github: "https://github.com/MichaelF102/Predicting_Housing_Prices",
+      "AlphaForge is an institutional-grade quantitative investment and research platform. It provides an end-to-end workflow for factor-based equity research, constrained portfolio optimization, historical strategy backtesting, and comprehensive risk analytics.",
+    tags: ["Python", "NumPy", "riskfolio-lib", "scipy", "plotly"],
+    demo: "https://github.com/MichaelF102/Alpha-Forage",
+    github: "https://github.com/MichaelF102/Alpha-Forage",
   },
 ];
