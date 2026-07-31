@@ -82,9 +82,18 @@ export const Project = [
     id: 10,
     name: "Alpha Forage- Portfolio Optimization",
     description:
-      "AlphaForge is an institutional-grade quantitative investment and research platform. It provides an end-to-end workflow for factor-based equity research, portfolio optimization, historical strategy backtesting, and risk analytics.",
+      "AlphaForge is an institutional-grade quantitative investment and research platform for factor-based equity research, portfolio optimization, historical strategy backtesting, and risk analytics.",
     tags: ["Python", "NumPy", "riskfolio-lib", "scipy", "plotly"],
     demo: "https://github.com/MichaelF102/Alpha-Forage",
     github: "https://github.com/MichaelF102/Alpha-Forage",
+  },
+  {
+    id: 11,
+    name: "Options Pricing Dashboard",
+    description:
+      "The platform provides interactive calculators and risk engines helping users visualize option premiums, Greeks, sensitivity curves, price path simulations, and multi-leg strategies.",
+    tags: ["Python", "numPy", "scipy", "plotly", "streamlit"],
+    demo: "https://optionspricinginteractive.streamlit.app/",
+    github: "https://github.com/MichaelF102/Options-Pricing",
   },
 ];
