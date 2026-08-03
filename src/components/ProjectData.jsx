@@ -96,4 +96,13 @@ export const Project = [
     demo: "https://optionspricinginteractive.streamlit.app/",
     github: "https://github.com/MichaelF102/Options-Pricing",
   },
+  {
+    id: 12,
+    name: "Quant Volatility Forecasting",
+    description:
+      "This Project enables quantitative analysts, risk managers, and traders to analyze, estimate, diagnose, and forecast asset return volatility using Econometrics Models",
+    tags: ["Python", "numPy", "scipy", "garch", "streamlit"],
+    demo: "https://quantvolatilityforecasting.streamlit.app/",
+    github: "https://github.com/MichaelF102/Quant-Volatility-Forecasting",
+  },
 ];
