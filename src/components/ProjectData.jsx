@@ -114,4 +114,13 @@ export const Project = [
     demo: "https://iplnextballprediction.streamlit.app/",
     github: "https://github.com/MichaelF102/IPLNextBallPrediction",
   },
+  {
+    id: 14,
+    name: "Multimodal Navigation System",
+    description:
+      "Multimodal Routing Engine: Integrates mode-specific OSRM routing servers for driving, cycling, and walking with customizable priority preferences (Fastest vs. Shortest).",
+    tags: ["Python", "osm api", "folium", "osrm", "streamlit"],
+    demo: "https://multimodalnavigationsystem.streamlit.app/",
+    github: "https://github.com/MichaelF102/MultimodalNavigationSystem",
+  },
 ];
