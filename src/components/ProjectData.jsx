@@ -105,4 +105,13 @@ export const Project = [
     demo: "https://quantvolatilityforecasting.streamlit.app/",
     github: "https://github.com/MichaelF102/Quant-Volatility-Forecasting",
   },
+  {
+    id: 13,
+    name: "IPL Next Ball Prediction",
+    description:
+      "An end-to-end Machine Learning solution designed to predict ball-by-ball outcomes in Indian Premier League (IPL) matches",
+    tags: ["Python", "numPy", "scikit-learn", "scipy", "streamlit"],
+    demo: "https://iplnextballprediction.streamlit.app/",
+    github: "https://github.com/MichaelF102/IPLNextBallPrediction",
+  },
 ];
