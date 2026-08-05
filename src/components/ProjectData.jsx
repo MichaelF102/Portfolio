@@ -123,4 +123,13 @@ export const Project = [
     demo: "https://multimodalnavigationsystem.streamlit.app/",
     github: "https://github.com/MichaelF102/MultimodalNavigationSystem",
   },
+  {
+    id: 15,
+    name: "HMM Stock Regime Detection",
+    description:
+      "A Hidden Markov Model (HMM) Market Regime Detection, Portfolio Optimization, Backtesting Dashboard, and Interactive Theory Dashboard",
+    tags: ["Python", "statsmodels", "hmmlearn", "scipy", "streamlit"],
+    demo: "https://hmmregimedetection.streamlit.app/",
+    github: "https://github.com/MichaelF102/HMM-Regime-Detection",
+  },
 ];
